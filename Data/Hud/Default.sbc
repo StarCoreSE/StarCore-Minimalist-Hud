@@ -4315,7 +4315,7 @@
 						<StatId>controlled_power_usage</StatId>
 
 						<OffsetPx>
-							<X>-350</X>
+							<X>-400</X>
 							<Y>-200</Y>
 						</OffsetPx>
 						<SizePx>
